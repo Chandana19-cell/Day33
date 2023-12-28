@@ -1,0 +1,14 @@
+{
+  "name": "task-day-33",
+  "version": "1.0.0",
+  "description": "Day 33 task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijay S S",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
